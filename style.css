@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|Sriracha&display=swap%27);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+    body{
+        display: flex;
+        justify-content: center;
+        background-image: url(pexels-photo-1136571.jpeg);
+    }
+    h1{
+        font-size: 24px;
+        font-weight: 100px;
+        color: #fff;
+    }
+    .description{
+        font-size: 20px;
+        color: #fff;
+    }
